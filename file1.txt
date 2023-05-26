@@ -1,2 +1,0 @@
-Hello
-This is my new text file in git.
